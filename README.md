@@ -24,9 +24,6 @@ To make the API more friendly, i've implemented Swagger, wich is a UI used to wo
 To access the Swagger interface use the following link:
 http://167.99.86.115:5000/swagger/index.html
 
-To access Mongo Expres UI -database control panel, use the following link :
-http://167.99.86.115:8081/db/TodoDB/
-
 
 
 
