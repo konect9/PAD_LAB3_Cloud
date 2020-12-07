@@ -1,0 +1,17 @@
+D:\Univer\An IV\PAD\Labs\swagger\server\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Univer\An IV\PAD\Labs\swagger\server\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Univer\An IV\PAD\Labs\swagger\server\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Univer\An IV\PAD\Labs\swagger\server\bin\Debug\netcoreapp2.1\TodoApp.deps.json
+D:\Univer\An IV\PAD\Labs\swagger\server\bin\Debug\netcoreapp2.1\TodoApp.runtimeconfig.json
+D:\Univer\An IV\PAD\Labs\swagger\server\bin\Debug\netcoreapp2.1\TodoApp.runtimeconfig.dev.json
+D:\Univer\An IV\PAD\Labs\swagger\server\bin\Debug\netcoreapp2.1\TodoApp.dll
+D:\Univer\An IV\PAD\Labs\swagger\server\bin\Debug\netcoreapp2.1\TodoApp.pdb
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.AssemblyInfoInputs.cache
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.AssemblyInfo.cs
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.csproj.CoreCompileInputs.cache
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.RazorAssemblyInfo.cache
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.RazorAssemblyInfo.cs
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.RazorTargetAssemblyInfo.cache
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.dll
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.pdb
+D:\Univer\An IV\PAD\Labs\swagger\server\obj\Debug\netcoreapp2.1\TodoApp.genruntimeconfig.cache
